@@ -1,0 +1,13 @@
+{
+  "biome.lsp.bin": "./frontend/node_modules/.pnpm/@biomejs+cli-win32-x64@2.4.9/node_modules/@biomejs/cli-win32-x64/biome.exe",
+  "biome.configurationPath": "./frontend/biome.json",
+  "files.readonlyInclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "files.watcherExclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "search.exclude": {
+    "**/routeTree.gen.ts": true
+  }
+}
